@@ -3,7 +3,7 @@ body {
     height: 800px;
     font-family: 'Dancing Script', cursive, Arial, Helvetica, sans-serif;
     font-size: 2rem;
-	  background-image: url(https://cdn.stocksnap.io/img-thumbs/960w/butterflies-crafts_Y7XB4PMYFD.jpg);
+	  background-image: url(../img/butterflies.png);
 	  background-repeat: no-repeat;
     background-position: absolute;
     background-position-x: 70px;
