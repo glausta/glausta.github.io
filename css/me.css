@@ -1,15 +1,14 @@
 
 body {
-    height: 700px;
-    font-family: 'Dancing Script', cursive, Arial, Helvetica, sans-serif;
-    font-size: 2rem;
+  	height: 500px;
+  	font-family: 'Dancing Script', cursive, Arial, Helvetica, sans-serif;
+  	font-size: 2rem;
 	background-image: url(../img/butterflies.png);
 	background-repeat: no-repeat;
-    background-size: cover;
-	
+	background-size: auto;
+  	background-position-x: 90px;
+  	background-position-y: 150px;
 }
-
-
 
 .skillcrush {
   margin: 15px;
