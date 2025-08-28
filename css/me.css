@@ -3,7 +3,7 @@ body {
     height: 700px;
     font-family: 'Dancing Script', cursive, Arial, Helvetica, sans-serif;
     font-size: 2rem;
-	background-image: url(../img/butterflies.png);
+	background-imag: url(../img/butterflies.png);
     background-size: 80%;
 }
 
